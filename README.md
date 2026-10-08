@@ -45,7 +45,7 @@ Python, Flask, Authlib, boto3, AWS S3, AWS IAM, Google Cloud OAuth 2.0
 ## Demo
 
 ### S3 bucket with versioning enabled
-![Bucket versioning](screenshots/01-s3-versioning-enabled.png)
+(screenshots/01-s3-versioning-enabled.png)
 
 ### Google login
 ![Login](screenshots/02-login-page.png)
